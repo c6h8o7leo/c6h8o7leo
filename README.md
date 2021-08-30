@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c6h8o7leo
 - 👀 I’m interested in Math, Chess and Anime
-- 🌱 I’m currently learning Topology
+- 🌱 I’m currently learning {}
 - 💞️ I’m looking to collaborate on {}
 - 📫 How to reach me ... (don't)
 
